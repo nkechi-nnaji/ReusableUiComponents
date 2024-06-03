@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PieChart">
+        <attr name="inner_padding"           format="float"/>
+        <attr name="inner_padding_outline"    format="float"/>
+        <attr name="pie_rotation"         format="boolean"/>
+        <attr name="auto_center"             format="boolean"/>
+        <attr name="pie_value"         format="boolean"/>
+        <attr name="text_size"          format="dimension"/>
+        <attr name="value_text_color"         format="color"/>
+    </declare-styleable>
+
+
+
+</resources>
